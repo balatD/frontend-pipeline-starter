@@ -93,6 +93,7 @@ const hbsOptions = {
 /* Compiling Tasks */
 
 // Handlebars
+
 gulp.task('handlebars', () => {
     return gulp.src(routes.templates.hbs)
         .pipe(handlebars(hbsOptions.handlebars.data, hbsOptions.handlebars.options))
