@@ -1,7 +1,7 @@
 {
-  "name": "balatd-portfolio",
+  "name": "balatd-starterkit",
   "version": "1.0.0",
-  "description": "Portfolio site by Dragan Balatinac",
+  "description": "Frontend Starter Kit",
   "main": "gulpfile.js",
   "xo": {
     "esnext": true
@@ -20,17 +20,7 @@
     "type": "git",
     "url": "git+https://github.com/carloscuesta/starterkit.git"
   },
-  "keywords": [
-    "carlos cuesta",
-    "starterkit",
-    "workflow"
-  ],
-  "author": "Carlos Cuesta",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/carloscuesta/starterkit/issues"
-  },
-  "homepage": "https://github.com/carloscuesta/starterkit#readme",
+  "author": "Dragan Balatinac",
   "dependencies": {
     "bootstrap": "4.1.2",
     "browser-sync": "^2.17.0",
